@@ -22,7 +22,7 @@ android {
         compileSdkVersion 35
         targetSdkVersion 35
         versionCode 216
-        versionName "3.23.0"
+        versionName "3.23.0-NoHome"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
