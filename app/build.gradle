@@ -17,7 +17,7 @@ android {
         buildConfig = true
     }
     defaultConfig {
-        applicationId 'fr.neamar.kiss'
+        applicationId 'fr.neamar.kiss.nohome'
         minSdkVersion 15
         compileSdkVersion 35
         targetSdkVersion 35
